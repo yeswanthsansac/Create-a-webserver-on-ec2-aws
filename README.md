@@ -1,5 +1,4 @@
-AWS EC2 Web Server Deployment
-Step-by-step guide to deploying a web server on AWS EC2 using Free Tier
+
 
 Architecture
 text
