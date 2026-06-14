@@ -1,2 +1,1 @@
-# Create-a-webs-erver-on-ec2-aws
-creating a web server using free tier aws account
+Serverless cross-region disaster recovery architecture on AWS with Lambda failover
